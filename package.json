@@ -1,0 +1,26 @@
+{
+  "name": "gas3",
+  "version": "0.0.1",
+  "description": "A web3 wrap for gas option",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GasOption/gas3.git"
+  },
+  "keywords": [
+    "gas",
+    "web3"
+  ],
+  "author": "Tal Rasha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GasOption/gas3/issues"
+  },
+  "homepage": "https://github.com/GasOption/gas3#readme",
+  "devDependencies": {
+    "web3-wallet": "^0.5.0"
+  }
+}
